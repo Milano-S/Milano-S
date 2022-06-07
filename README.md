@@ -1,5 +1,4 @@
 - 👽 Hi, I’m @Milano-S
-- 👽 I’m interested in Mobile Development
 - 👽 I’m currently learning Stuff
 <!---
 Milano-S/Milano-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
